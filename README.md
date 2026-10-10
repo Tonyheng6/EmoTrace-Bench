@@ -2,7 +2,7 @@
 
 **Yeheng Wang**<sup>1\*</sup>, **Liudan Shi**<sup>1\*</sup>, **Yi Zheng**<sup>1†</sup>, **Jingke Li**<sup>2</sup>, **Shiyuan Liu**<sup>2</sup>, **Xin Tao**<sup>2</sup>, **Yuanxing Zhang**<sup>2</sup>, **Guoyu Sun**<sup>1</sup>
 
-<sup>1</sup>Communication University of China&nbsp;&nbsp;&nbsp;<sup>2</sup>Kling Team, Kuaishou Technology
+<sup>1</sup>Communication University of China&nbsp;&nbsp;&nbsp;<sup>2</sup>Kling Team
 
 <sup>\*</sup>Equal contribution&nbsp;&nbsp;&nbsp;<sup>†</sup>Corresponding author
 
