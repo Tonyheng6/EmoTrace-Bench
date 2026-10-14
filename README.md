@@ -4,9 +4,9 @@
 
 <sup>1</sup>Communication University of China&nbsp;&nbsp;&nbsp;<sup>2</sup>Kling Team
 
-<sup>\*</sup>Equal contribution&nbsp;&nbsp;&nbsp;<sup>†</sup>Corresponding author
+<sup>\*</sup>Equal contribution&nbsp;&nbsp;&nbsp;<sup>†</sup>Corresponding author: zhengyi7592@cuc.edu.cn
 
-[[Paper (arXiv)]](ARXIV_URL)
+[[Paper (arXiv)]](https://arxiv.org/abs/2610.15452)
 
 ## Overview
 
@@ -91,7 +91,7 @@ The data and documents in this repository are released under the [Creative Commo
 @article{wang2026emotrace,
   title   = {EmoTrace-Bench: Diagnosing Emotional Expression in Text-to-Video Generation through Controlled Cues and Intensity},
   author  = {Wang, Yeheng and Shi, Liudan and Zheng, Yi and Li, Jingke and Liu, Shiyuan and Tao, Xin and Zhang, Yuanxing and Sun, Guoyu},
-  journal = {arXiv preprint arXiv:ARXIV_ID},
+  journal = {arXiv preprint arXiv:2610.15452},
   year    = {2026}
 }
 ```
